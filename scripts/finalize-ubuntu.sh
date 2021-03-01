@@ -19,7 +19,7 @@ function setupNetStat {
 }
 echo "finalize ubuntu"
 setupUtilities
-echo "setup vim"
-setupVIM
+# echo "setup vim"
+# setupVIM
 echo "setup netstat"
 setupNetStat
